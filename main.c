@@ -30,7 +30,7 @@
  * Most of the code is more or less a port of its VB6 prototype. It "just works" and that's all I care about.
  *
  * Please note: Don't run this program with any file other than VOICES.BLK and VOICES2.BLK. It WILL crash (Duh).
- * Since these files have no header it's impossible to verify them so the program will blindly assume that you're giving it a valid one.
+ * Since these files have no header it's impossible to identify them so the program will blindly assume that you're giving it a valid one.
  *
  ******************************************************************************************************************************************/
 
